@@ -1,1 +1,47 @@
+Python
+
+Question 1 to 10 (All)  → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/Python.ipynb at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Statistics 
+
+Question 1 to 12 (All) →
+Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/Statistics.ipynb at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Machine Learning
+
+Question 1 - 7 → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/Machine learning Placement Assignment.ipynb at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Question 8 → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/ML_Question_8.ipynb at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Question 10 → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/ML_Question_10.ipynb at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+	Machine Learning Advanced
+	
+Question 1 → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/ML_advance_1.ipynb at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Deep Learning
+
+Question 1 → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/Question 1.ipynb at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Question 2 → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/Question 2.ipynb at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Question 3 → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/Question 3.ipynb at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Question 4 & 5→ Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/Question 4.ipynb at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Computer Vision
+
+Question 1 → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/Question_1.ipynb at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Natural Language Processing
+
+Question 1 → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/Data Science/NLP/01 at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Question 2 → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/Data Science/NLP/02 at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Question 3 → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/Data Science/NLP/03 at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Question 4 → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/Data Science/NLP/04 at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
+
+Question 8 → Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS/NLP-Question-8.ipynb at main · KirtiKousik/Placement_Assignment_KirtiKousikBiswal_iNeuron_FSDS · GitHub
 
